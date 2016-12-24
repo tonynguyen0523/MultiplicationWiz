@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MultiplicationWiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="redo">Redo</string>
+
+    <!--ones-->
+    <string name="_1_x_1">1 x 1 =</string>
+    <string name="_1_x_2">1 x 2 =</string>
+    <string name="_1_x_3">1 x 3 =</string>
+    <string name="_1_x_4">1 x 4 =</string>
+    <string name="_1_x_5">1 x 5 =</string>
+    <string name="_1_x_6">1 x 6 =</string>
+    <string name="_1_x_7">1 x 7 =</string>
+    <string name="_1_x_8">1 x 8 =</string>
+    <string name="_1_x_9">1 x 9 =</string>
+    <string name="_1_x_10">1 x 10 =</string>
+    <string name="_1_x_11">1 x 11 =</string>
+    <string name="_1_x_12">1 x 12 =</string>
+</resources>

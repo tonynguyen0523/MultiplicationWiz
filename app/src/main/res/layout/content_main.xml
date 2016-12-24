@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main"
+    tools:context="toto.multiplicationwiz.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:background="#feffe2"
+        android:orientation="vertical">
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="oneTimes">
+        <TextView
+            style="@style/clickable_text"
+            android:text="Ones"/>
+
+            </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="twoTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Twos"/>
+        </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="threeTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Threes"/>
+
+        </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="fourTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Fours"/>
+           </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="fiveTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Fives"/>
+        </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="sixTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Sixes"/>
+        </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="sevenTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Sevens"/>
+        </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="eightTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Eights"/>
+        </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="nineTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Nines"/>
+        </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="tenTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Tens"/>
+        </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="elevenTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Elevens"/>
+        </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+            style="@style/clickable_text_layout"
+            android:onClick="twelveTimes">
+            <TextView
+                style="@style/clickable_text"
+                android:text="Twelves"/>
+        </LinearLayout>
+        <View
+            style="@style/horizontal_line"/>
+
+        <LinearLayout
+        style="@style/clickable_text_layout"
+        android:onClick="extra">
+        <TextView
+            style="@style/clickable_text"
+            android:text="Extra Practice"/>
+    </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

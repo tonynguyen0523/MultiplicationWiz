@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <LinearLayout
+        style="@style/questions_layout">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 1 = "/>
+            <EditText
+                android:id="@+id/edit_five_1"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 2 = "/>
+            <EditText
+                android:id="@+id/edit_five_2"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 3 = "/>
+            <EditText
+                android:id="@+id/edit_five_3"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 4 = "/>
+            <EditText
+                android:id="@+id/edit_five_4"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 5 = "/>
+            <EditText
+                android:id="@+id/edit_five_5"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 6 = "/>
+            <EditText
+                android:id="@+id/edit_five_6"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 7 = "/>
+            <EditText
+                android:id="@+id/edit_five_7"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 8 = "/>
+            <EditText
+                android:id="@+id/edit_five_8"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 9 = "/>
+            <EditText
+                android:id="@+id/edit_five_9"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 10 = "/>
+            <EditText
+                android:id="@+id/edit_five_10"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 11 = "/>
+            <EditText
+                android:id="@+id/edit_five_11"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 12 = "/>
+            <EditText
+                android:id="@+id/edit_five_12"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="8 x 5 = "/>
+            <EditText
+                android:id="@+id/edit_five_13"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 9 = "/>
+            <EditText
+                android:id="@+id/edit_five_14"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 2 = "/>
+            <EditText
+                android:id="@+id/edit_five_15"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="12 x 5 = "/>
+            <EditText
+                android:id="@+id/edit_five_16"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 7 = "/>
+            <EditText
+                android:id="@+id/edit_five_17"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="6 x 5 = "/>
+            <EditText
+                android:id="@+id/edit_five_18"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 3 = "/>
+            <EditText
+                android:id="@+id/edit_five_19"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 10 = "/>
+            <EditText
+                android:id="@+id/edit_five_20"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="5 x 5 = "/>
+            <EditText
+                android:id="@+id/edit_five_21"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="11 x 5 = "/>
+            <EditText
+                android:id="@+id/edit_five_22"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="1 x 5 = "/>
+            <EditText
+                android:id="@+id/edit_five_23"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/questions"
+                android:text="4 x 5 = "/>
+            <EditText
+                android:id="@+id/edit_five_24"
+                style="@style/questions"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <!--finished button-->
+
+        <Button
+            style="@style/finished_button"
+            android:onClick="fiveResult"/>
+
+        <TextView
+            android:id="@+id/display_fives_result"
+            style="@style/display_result_text"/>
+
+    </LinearLayout>
+</ScrollView>

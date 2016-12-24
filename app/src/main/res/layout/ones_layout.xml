@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+<LinearLayout
+    style="@style/questions_layout">
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+         <TextView
+             style="@style/questions"
+             android:text="@string/_1_x_1"/>
+        <EditText
+            style="@style/questions"
+            android:id="@+id/edit_one"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        >
+        <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_2"/>
+        <EditText
+            android:id="@+id/edit_one_two"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_3"/>
+        <EditText
+            android:id="@+id/edit_one_three"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_4"/>
+        <EditText
+            android:id="@+id/edit_one_four"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+    <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_5"/>
+        <EditText
+            android:id="@+id/edit_one_five"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+    <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_6"/>
+        <EditText
+            android:id="@+id/edit_one_six"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+    <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_7"/>
+        <EditText
+            android:id="@+id/edit_one_seven"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_8"/>
+        <EditText
+            android:id="@+id/edit_one_eight"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_9"/>
+        <EditText
+            android:id="@+id/edit_one_nine"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_10"/>
+        <EditText
+            android:id="@+id/edit_one_10"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_11"/>
+        <EditText
+            android:id="@+id/edit_one_eleven"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="@string/_1_x_12"/>
+        <EditText
+            android:id="@+id/edit_one_twelve"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="4 x 1 = "/>
+        <EditText
+            android:id="@+id/edit_one_13"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="7 x 1 = "/>
+        <EditText
+            android:id="@+id/edit_one_14"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="1 x 1 = "/>
+        <EditText
+            android:id="@+id/edit_one_15"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="12 x 1 = "/>
+        <EditText
+            android:id="@+id/edit_one_16"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="1 x 2 = "/>
+        <EditText
+            android:id="@+id/edit_one_17"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="6 x 1 = "/>
+        <EditText
+            android:id="@+id/edit_one_18"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="1 x 3 = "/>
+        <EditText
+            android:id="@+id/edit_one_19"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="1 x 11 = "/>
+        <EditText
+            android:id="@+id/edit_one_20"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="1 x 5 = "/>
+        <EditText
+            android:id="@+id/edit_one_21"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="10 x 1 = "/>
+        <EditText
+            android:id="@+id/edit_one_22"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="9 x 1 = "/>
+        <EditText
+            android:id="@+id/edit_one_23"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/horizontal_layout">
+        <TextView
+            style="@style/questions"
+            android:text="8 x 1 = "/>
+        <EditText
+            android:id="@+id/edit_one_24"
+            style="@style/questions"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <!--finished button-->
+
+    <Button
+        style="@style/finished_button"
+        android:onClick="oneResult"/>
+
+    <TextView
+        android:id="@+id/display_ones_result"
+        style="@style/display_result_text" />
+
+</LinearLayout>
+</ScrollView>
